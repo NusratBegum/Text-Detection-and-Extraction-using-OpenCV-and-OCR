@@ -9,6 +9,12 @@ A deep learning-based Handwriting Recognition system that uses Computer Vision t
 
 ---
 
+**Notebook:** [view with all outputs (nbviewer)](https://nbviewer.org/github/NusratBegum/Text-Detection-and-Extraction-using-OpenCV-and-OCR/blob/main/main.ipynb) · [open in Colab](https://colab.research.google.com/github/NusratBegum/Text-Detection-and-Extraction-using-OpenCV-and-OCR/blob/main/main.ipynb)
+
+![Image preprocessing pipeline](docs/preview-1.png)
+
+![Sample handwritten names from the dataset](docs/preview-2.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
